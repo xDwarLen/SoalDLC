@@ -1,0 +1,80 @@
+{
+    "questions": [
+        {
+            "question": "Rara membeli kantong plastik 6 pack, lalu membeli lagi 7 pack. Berapa jumlah semua pack plastik yang dibeli Rara?",
+            "options": [ "13 Pack", "12 Pack", "14 Pack", "16 Pack" ],
+            "answer": 0
+        },
+        {
+            "question": "Nunu mempunyai 1 pulpen, lalu Nino dan Nani memberikan 12 pulpen untuk Nunu. Berapa jumlah semua pulpen Nunu? ",
+            "options": [ "10 buah", "11 buah", "12 buah", "13 buah" ],
+            "answer": 3
+        },
+        {
+            "question": "Chan menjual 10 buah tas kecil dan 13 buah tas besar. Berapa jumlah keseluruhan tas yang dijual Chan?",
+            "options": [ "21 buah", "22 buah", "23 buah", "24 buah" ],
+            "answer": 2
+        },
+        {
+            "question": "Ibu Halimah mencuci 9 baju dan 9 celana. Hitung berapa banyak pakaian yang dicuci Ibu Halimah? ",
+            "options": [ "17 potong", "18 potong", "19 potong", "20 potong" ],
+            "answer": 1
+        },
+        {
+            "question": "Dila mempunyai pensil 15 buah, lalu Gita menambah pensil Dita 5 buah. Berapa jumlah pensil Dila dan Dita? ",
+            "options": [ "20 buah", "21 buah", "22 buah", "23 buah" ],
+            "answer": 0
+        },
+        {
+            "question": "Zaki mengikuti lomba lari dengan urutan ke dua puluh. Bilangan dua puluh jika ditulis dengan angka adalah",
+            "options": [ "20", "19", "21", "15" ],
+            "answer": 0
+        },
+        {
+            "question": "Yayat mempunyai 14 ekor kambing, 3 anak kambing mati. Berapa sisa kambing Yayat?",
+            "options": [ "9 ekor", "10 ekor", "11 ekor", "12 ekor" ],
+            "answer": 2
+        },
+        {
+            "question": "Cinta membeli roti 10 buah untuk diberikan Dinda 4 dan Adit sisanya. Berapa roti yang tersisa untuk Adit?",
+            "options": [ "3 buah", "4 buah", "5 buah", "6 buah" ],
+            "answer": 3
+        },
+        {
+            "question": "Bu Dina menjual 13 sepatu, lalu 8 sepatu laris dijualnya. Berapa sisa sepatu yang harus dijual Bu Dina?",
+            "options": [ "4 buah", "5 buah", "6 buah", "7 buah" ],
+            "answer": 1
+        },
+        {
+            "question": "Ketika berkenalan harus berbicara dengan?",
+            "options": [ "Cepat", "Keras", "Kasar", "Sopan" ],
+            "answer": 3
+        },
+        {
+            "question": "Manfaat berkenalan yaitu teman menjadi?",
+            "options": [ "Musuh", "Bertambah", "Berkurang", "Sedikit" ],
+            "answer": 1
+        },
+        {
+            "question": "Wayan dan Deni bermain tenis meja.\nWayan dan Deni membutuhkan",
+            "options": [ "Pentungan", "Kok", "Bola pingpong", "Bola sepak" ],
+            "answer": 2
+        },
+        {
+            "question": "Kegiatan membaca membutuhkan?",
+            "options": [ "Ketenangan", "Keramaian", "Kegaduhan", "Kebisingan" ],
+            "answer": 0
+        },
+        {
+            "question": "Contoh merawat lingkungan sekolah adalah?",
+            "options": [ "Membersihkan sungai", "Menata barang di rumah", "Melaksanakan tugas piket", "Belanja di pasar" ],
+            "answer": 2
+        },
+        {
+            "question": "Contoh sikap yang merusak lingkungan adalah?",
+            "options": [ "Membuang sampah di laci", "Membersihkan tempat tidur", "Membuang sampah pada tempatnya", "Membeli  permen di pasar" ],
+            "answer": 0
+        }
+
+    ]
+}
